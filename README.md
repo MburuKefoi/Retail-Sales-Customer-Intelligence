@@ -3,7 +3,7 @@
 ## Project Overview
  
 Duka Smart Electronics is a growing Kenyan retailer selling phones ,laptops ,accessories,TVs and home appliances in ten towns - Nairobi ,Mombasa , Kisumu ,Nakuru , Eldoret , Thika , Nyeri , Meru , Machakos and Kiambu.
-It has traded since January 2025 and keeps every order in a database.Management wants to know who  its best customers are , which products actually make money , whether sales are growin  and which customers have stopped buying 
+It has traded since January 2025 and keeps every order in a database.Management wants to know who  its best customers are , which products actually make money , whether sales are growin  and which customers have stopped buying.
 This project required use of DBeaver and Postgres for the queries and Power BI where we visualized some of our findings
 
 ## Project Objectives
@@ -17,8 +17,8 @@ This project required use of DBeaver and Postgres for the queries and Power BI w
  
 |Tables | Columns |
 |:------|:--------|
-|'Customers'| 'customer_id' , 'customer_name' , 'gender' , 'city' , 'registration_date' , 'customer_segment' | 
-|'Orders' |'order_id' , 'customer_id' , 'order_date' , 'product_name' , 'product_category' ,'quantity' , 'unit_price' , 'cost_price' ,'discount' , 'payment_method' , 'order_status, |
+| Customers | customer_id , customer_name , gender , city , registration_date , customer_segment | 
+| Orders | order_id , customer_id , order_date , product_name , product_category , quantity , unit_price , cost_price ,discount , payment_method , order_status |
 
 Above tables will lie in duka_smart schema in retail_analytics database
 
@@ -52,6 +52,6 @@ The schema.sql script will specifically create schema and tables you need and la
 
 ## Executive Dashboard 
 
-<img width="747" height="366" alt="Screenshot 2026-11-11 160230" src="https://github.com/user-attachments/assets/c42125cd-9322-444a-9b3e-46acfcbf0d62" /> 
+<img width="1724" height="963" alt="Screenshot 2026-11-11 210850" src="https://github.com/user-attachments/assets/e9480f6f-212c-4cb3-b9f6-5b7bd2eca768" />
 
 You can check insights.md to find the insights and recommendations we gave to Duka Smart Electronics 
