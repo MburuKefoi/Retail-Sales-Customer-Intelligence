@@ -10,7 +10,7 @@ From our Duka Smart Electronics we made the following insights ;
 
 From our above insights we had different recommendations ;
 
-- Nairobi being our best selling county , we need to know how we can increase that revenue , for example we can have more home appliances products in our Nairobi shop and more Mobile Phones in our Mombasa branch because those products were ordered the most in those respective branches.We can also introduce deliveries to boost our customers engagements and by that we can also increase revenue.For Machakos lets investigate what consumers there need most and even introduce offers ang later analyse the reults
+- Nairobi being our best selling county , we need to know how we can increase that revenue , for example we can have more home appliances products in our Nairobi shop and more Mobile Phones in our Mombasa branch because those products were ordered the most in those respective branches.We can also introduce deliveries to boost our customers engagements and by that we can also increase revenue.For Machakos lets investigate what consumers there need most and even introduce offers to try elevate their sales
 - We need to know why are 47 customers drifting away,maybe analysing customers ratings and reviews to see how dissatisfied they are or how satisfied they are from our services 
 - Increasing Mobile Phones and Computing stock to ensure we satisfy customer demand 
 - From our best spenders we need to investigate branchwise and know where are they willing to spend more because generally we are having "Retail" customers as our best spenders and many of them ordering accessories .Let us investigate branchwise wht our biggest spenders want most 
