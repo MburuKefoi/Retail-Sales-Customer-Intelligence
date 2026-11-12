@@ -360,7 +360,7 @@ previous as (
 select month , spending , lag(spending) over (order by month asc) as previous_revenue
 from cum_months)
 select month, spending , previous_revenue, 
-round(((spending - previous_revenue) *100.0/spending),2) as growth
+round(((spending - previous_revenue) *100.0/previous_revenue),2) as growth
 from previous;
 
 -- Q41- divide into four spending groups
