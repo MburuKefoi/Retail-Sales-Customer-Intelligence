@@ -2,9 +2,9 @@
 
 From our Duka Smart Electronics we made the following insights ;
 
-- Duka Smart had a total revenue of 24.16M of all orders that weere completed and incurred a total cost of 21.26M making their profit around 2.89M
-- Mobile Phones was our most sold category recording 6,942,062.65 M in revenue with iPhone 13 as our most sold phone .Computing came second with 6,596,221.7 in revenue   
-- Nairobi was the best performing county from the 10 with a total revenue of 9,581,980.35M followed by Mombasa with a total of 3,161,889.6M and Machakos was our least performing county with 745,099.9 as revenue 
+- Duka Smart had a total revenue of 24.16M of all orders that were completed and incurred a total cost of 21.26M making their profit around 2.89M
+- Mobile Phones was our most sold category recording 6,942,062.65 M in revenue with iPhone 13 as our most sold phone.Computing came second with 6,596,221.7 in revenue   
+- Nairobi was the best performing county from the 10 with a total revenue of 9,581,980.35M followed by Mombasa with a total of 3,161,889.6M. Machakos came last as our least performing county with 745,099.9 as revenue 
 - The average VIP spending was 42,308 which was our best performing customer segment 
 - We had 47 customers whose latest orders are more than 90days old from our latest date 
 
